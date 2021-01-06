@@ -1,0 +1,4 @@
+\d+ \- {artist} \- {title}
+\d+ \-* {title}
+\d+ {title}
+{artist} \- {album} \- \d+ {title}
